@@ -1,6 +1,6 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
-# 🙋‍♂️ Olá, espero que goste do que verá !! 🙃
+# 🙋‍♂️ Olá, espero que goste do que verá!🙃
 
 
  <div id="badges">
