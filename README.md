@@ -29,9 +29,7 @@ Ando praticando desenvolvimento full stack web e se aventurando mobile
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
- icons/angular/angular-original.svg
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
