@@ -16,7 +16,7 @@
 Ando praticando desenvolvimento full stack web e se aventurando mobile
 
 
-- 🩵 Sistemas de infomação
+- 🩵 Formado em Sistemas de informação!
 - ⚽ Fã de futebol
 - 👩‍💻 Constante aprendizado
 
