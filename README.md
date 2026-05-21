@@ -26,11 +26,3 @@ Ando praticando desenvolvimento full stack web e se aventurando mobile
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp; 
 </div>
-
----
-
-<div align = "left">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalencarrr&show_icons=true&theme=radical&count_private=true"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=erickalencarrr&show_icons=true&show_icons=true&theme=radical&count_private=true" />
-</div>
-
